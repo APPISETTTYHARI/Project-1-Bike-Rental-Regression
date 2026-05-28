@@ -116,4 +116,4 @@ This project is for educational purposes as part of a Data Science course.
 
 ---
 
-<p align="center">Made with ❤️ by <strong>APPISETTTYHARI</strong></p>
+<p align="center">Made with ❤️ by <strong>APPISETTY HARI</strong></p>
