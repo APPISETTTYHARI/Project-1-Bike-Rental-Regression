@@ -46,7 +46,7 @@ Bike-sharing systems need accurate demand forecasting to optimize fleet distribu
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/APPISETTTYHARI/Project-1-Bike-Rental-Regression.git
+git clone https://github.com/APPISETTYHARI/Project-1-Bike-Rental-Regression.git
 cd Project-1-Bike-Rental-Regression
 ```
 
